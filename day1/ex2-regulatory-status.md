@@ -1,6 +1,6 @@
 # Exercise 2: Regulatory Status Note
 
-**Status:** Draft
+**Status:** Done
 **Format:** One page max: retained status, arguments, identified uncertainties
 **Last verified:** 2026-10-01 (see [Sources](#sources) and the verification caveat in Uncertainty 1)
 
@@ -35,4 +35,4 @@
 - Senate report on the bill: [senat.fr/rap/l24-393](https://www.senat.fr/rap/l24-393/l24-393_mono.html)
 - ANSSI, *Avancement de la transposition de la directive NIS 2*: [aide.monespacenis2.cyber.gouv.fr](https://aide.monespacenis2.cyber.gouv.fr/fr/article/avancement-de-la-transposition-de-la-directive-nis-2-1b3j1da/)
 - Commission referral of France to the CJEU, 8 July 2026 (case INFR(2024)0274): [dig.watch coverage](https://dig.watch/updates/eu-commission-eu-court-nis2-delays)
-- Directive (EU) 2022/2555, Annex I: [EUR-Lex](https://eur-lex.europa.eu)
+- Directive (EU) 2022/2555, Annex I: [EUR-Lex](https://eur-lex.europa.eu/eli/dir/2022/2555/oj)

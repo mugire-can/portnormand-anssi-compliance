@@ -15,6 +15,7 @@
 - [Methodology](#methodology)
 - [Key references](#key-references)
 - [Team](#team)
+- [Verification and limits](#verification-and-limits)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
@@ -34,12 +35,12 @@ Our team acts as PortNormand's **compliance cell** and must:
 
 | # | Deliverable | Day | File | Status |
 |---|---|---|---|---|
-| 1 | Missions / situations table | 1 | [`day1/ex1-missions-situations.md`](day1/ex1-missions-situations.md) | Draft |
-| 2 | Regulatory status note (1 page) | 1 | [`day1/ex2-regulatory-status.md`](day1/ex2-regulatory-status.md) | Draft |
-| 3 | Actors table and information-flow diagram | 1 | [`day1/ex3-actors-map.md`](day1/ex3-actors-map.md) | Draft |
-| 4 | Notification timeline and draft message | 2 | [`day2/ex4-incident-notification.md`](day2/ex4-incident-notification.md) | Draft |
-| 5 | Qualification table (PASSI / PDIS / PRIS / SecNumCloud) | 2 | [`day2/ex5-qualifications.md`](day2/ex5-qualifications.md) | Draft |
-| 6 | Inspection readiness action plan (1 page) | 2 | [`day2/ex6-inspection-readiness.md`](day2/ex6-inspection-readiness.md) | Draft |
+| 1 | Missions / situations table | 1 | [`day1/ex1-missions-situations.md`](day1/ex1-missions-situations.md) | Done |
+| 2 | Regulatory status note (1 page) | 1 | [`day1/ex2-regulatory-status.md`](day1/ex2-regulatory-status.md) | Done |
+| 3 | Actors table and information-flow diagram | 1 | [`day1/ex3-actors-map.md`](day1/ex3-actors-map.md) | Done |
+| 4 | Notification timeline and draft message | 2 | [`day2/ex4-incident-notification.md`](day2/ex4-incident-notification.md) | Done |
+| 5 | Qualification table (PASSI / PDIS / PRIS / SecNumCloud) | 2 | [`day2/ex5-qualifications.md`](day2/ex5-qualifications.md) | Done |
+| 6 | Inspection readiness action plan (1 page) | 2 | [`day2/ex6-inspection-readiness.md`](day2/ex6-inspection-readiness.md) | Done |
 
 Supporting material: [`docs/glossary.md`](docs/glossary.md) and [`docs/qcm-study-notes.md`](docs/qcm-study-notes.md).
 
@@ -60,7 +61,7 @@ Supporting material: [`docs/glossary.md`](docs/glossary.md) and [`docs/qcm-study
 │   ├── ex5-qualifications.md
 │   └── ex6-inspection-readiness.md
 └── docs/
-    ├── assets/                 # Diagrams (PNG/SVG)
+    ├── assets/                 # Diagrams (SVG)
     ├── glossary.md
     └── qcm-study-notes.md
 ```
@@ -75,8 +76,9 @@ Supporting material: [`docs/glossary.md`](docs/glossary.md) and [`docs/qcm-study
 ## Key references
 
 - [cyber.gouv.fr](https://cyber.gouv.fr): ANSSI institutional website (missions, frameworks, qualified provider directory)
-- [Article 22, Law No. 2013-1168 (LPM)](https://www.legifrance.gouv.fr): Légifrance
-- [Directive (EU) 2022/2555 (NIS2)](https://eur-lex.europa.eu): EUR-Lex
+- [ANSSI, SAIV framework (LPM article 22, Defence Code L1332-6-1 et seq.)](https://cyber.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/dispositif-saiv/): ANSSI
+- [Defence Code, article L1332-7 (penalties)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028345141/2020-11-23): Légifrance
+- [Directive (EU) 2022/2555 (NIS2)](https://eur-lex.europa.eu/eli/dir/2022/2555/oj): EUR-Lex
 - [ENISA](https://www.enisa.europa.eu): EU cybersecurity agency, NIS2 resources
 
 ## Team
@@ -85,6 +87,11 @@ Supporting material: [`docs/glossary.md`](docs/glossary.md) and [`docs/qcm-study
 |---|---|
 | [Member 1] | [@mugire-can](https://github.com/mugire-can) |
 
+## Verification and limits
+
+- Legal facts were checked on **2026-10-01** against official sources (ANSSI, Légifrance, EUR-Lex) and dated secondary sources. Each deliverable lists its own uncertainties.
+- Not covered: the Transports sectoral order and the final French NIS2 text (bill not promulgated at the time of writing). Re-check before reuse.
+- Readiness levels in Ex.6 are estimates based only on the case brief.
 
 ## Disclaimer
 

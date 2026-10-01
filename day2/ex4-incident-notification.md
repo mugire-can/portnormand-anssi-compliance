@@ -1,6 +1,6 @@
 # Exercise 4: Incident Notification Simulation
 
-**Status:** Draft, awaiting team review
+**Status:** Done
 **Format:** Chronological timeline (who / what / when) and a 10 to 15 line draft message
 **Last verified:** 2026-10-01
 
@@ -96,7 +96,7 @@ Weekends and nights count: **all clocks keep running** after Friday evening.
 ## Sources
 
 - ANSSI, *Notifications réglementaires*: [cyber.gouv.fr](https://cyber.gouv.fr/contact-acces/contact/notifications-reglementaires/)
-- NIS2 art. 23 timelines: [Directive (EU) 2022/2555, EUR-Lex](https://eur-lex.europa.eu); summary in [Kertos NIS2 guide](https://www.kertos.io/fr/blog/directive-nis2-guide-2026)
+- NIS2 art. 23 timelines: [Directive (EU) 2022/2555, EUR-Lex](https://eur-lex.europa.eu/eli/dir/2022/2555/oj); summary in [Kertos NIS2 guide](https://www.kertos.io/fr/blog/directive-nis2-guide-2026)
 - LOPMI, Insurance Code art. L12-10-1: [Adaltys Avocats](https://adaltys.com/la-lopmi-introduit-le-nouvel-article-l12-10-1-du-code-des-assurances-prevention-des-risques-en-cybercriminalite-et-gestion-de-crise/), [Verspieren](https://www.verspieren.com/fr/entreprise/article/iard/consequences-loi-lopmi-assurance-risques-cyber)
 - Cyber incident first steps and ransom advice: [AFUB](https://www.afub.org/cyberattaque-pme)
-- GDPR art. 33 (72 h breach notification): [EUR-Lex](https://eur-lex.europa.eu)
+- GDPR art. 33 (72 h breach notification): [Regulation (EU) 2016/679, EUR-Lex](https://eur-lex.europa.eu/eli/reg/2016/679/oj)

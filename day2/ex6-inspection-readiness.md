@@ -1,6 +1,6 @@
 # Exercise 6: Inspection Readiness Plan
 
-**Status:** Draft, awaiting team review
+**Status:** Done
 **Format:** One page: control points, estimated readiness level, 3 priority actions
 **Last verified:** 2026-10-01
 
@@ -62,4 +62,4 @@
 - Code de la défense, art. L1332-7: [Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028345141/2020-11-23)
 - Squire Patton Boggs, *Opérateurs d'importance vitale : publication du décret d'application*: [larevue.squirepattonboggs.com](https://larevue.squirepattonboggs.com/operateurs-d-importance-vitale-publication-du-decret-d-application_a2596.html)
 - ANSSI, *Le dispositif SAIV*: [cyber.gouv.fr](https://cyber.gouv.fr/reglementation/cybersecurite-systemes-dinformation/directives-nis-nis2-et-dispositif-saiv/dispositif-saiv/)
-- Directive (EU) 2022/2555, art. 34: [EUR-Lex](https://eur-lex.europa.eu)
+- Directive (EU) 2022/2555, art. 34: [EUR-Lex](https://eur-lex.europa.eu/eli/dir/2022/2555/oj)
