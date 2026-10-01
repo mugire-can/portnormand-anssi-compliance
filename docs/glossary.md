@@ -28,3 +28,6 @@
 | Cybermalveillance.gouv.fr | National assistance platform for individuals, small organisations and local authorities (run by GIP ACYMA) |
 | CSIRT territorial / sectoriel | Regional or sector-specific incident response centres, complementary to CERT-FR |
 | DSI / RSSI | IT department / information systems security officer |
+| T0 | Moment the organisation becomes aware of an incident; all notification clocks are counted from it |
+| LOPMI | Law of 24 January 2023 on the Interior Ministry's programming; created Insurance Code art. L12-10-1 (complaint within 72 h to claim cyber insurance) |
+| Early warning | First NIS2 report, due within 24 h of awareness of a significant incident |
