@@ -85,7 +85,7 @@ Supporting material: [`docs/glossary.md`](docs/glossary.md) and [`docs/qcm-study
 
 | Name | GitHub |
 |---|---|
-| [Member 1] | [@mugire-can](https://github.com/mugire-can) |
+| mugire-can | [@mugire-can](https://github.com/mugire-can) |
 
 ## Verification and limits
 

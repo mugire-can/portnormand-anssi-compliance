@@ -1,6 +1,6 @@
 # Exercise 3: Actors Map
 
-**Status:** Draft, awaiting team review
+**Status:** Done
 **Format:** Actor / mission / example table, with a simple information-flow diagram
 **Last verified:** 2026-10-01
 

@@ -24,5 +24,5 @@ chore: update .gitignore
 - Language: **English** for all repository files.
 - One deliverable per file, following the format required by the brief.
 - Every legal claim cites a source and the date it was checked.
-- Diagrams go in `docs/assets/` (PNG or SVG).
+- Diagrams go in `docs/assets/` (PNG or SVG). **Never commit PDFs.** **Never commit PDFs.**
 - Do not commit the original course brief or any confidential material.

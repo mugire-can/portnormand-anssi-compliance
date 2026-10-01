@@ -1,6 +1,6 @@
 # Exercise 5: Qualification Frameworks
 
-**Status:** Draft, awaiting team review
+**Status:** Done
 **Format:** Table of need / required qualification / justification, one need per row
 **Last verified:** 2026-10-01 (framework versions read on the ANSSI qualification page)
 
