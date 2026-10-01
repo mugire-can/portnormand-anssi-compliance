@@ -1,6 +1,6 @@
 # Exercise 1: ANSSI Missions / Situations Table
 
-**Status:** Draft, awaiting team review
+**Status:** Done
 **Format:** Three-column table (situation, ANSSI mission, other possible actor), one row per situation
 **Last verified:** 2026-10-01 (ANSSI missions checked on [cyber.gouv.fr/missions](https://cyber.gouv.fr/nous-connaitre/lagence/missions/))
 
