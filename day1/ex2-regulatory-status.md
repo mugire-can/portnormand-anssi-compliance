@@ -1,6 +1,6 @@
 # Exercise 2: Regulatory Status Note
 
-**Status:** Draft, awaiting team review
+**Status:** Draft
 **Format:** One page max: retained status, arguments, identified uncertainties
 **Last verified:** 2026-10-01 (see [Sources](#sources) and the verification caveat in Uncertainty 1)
 
