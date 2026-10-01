@@ -24,3 +24,7 @@
 | OSE | Opérateur de services essentiels (NIS1 designation) |
 | ReCyF | Référentiel Cyber France (ANSSI working reference framework for NIS2 measures) |
 | MonEspaceNIS2 | ANSSI portal for NIS2 entity eligibility and registration |
+| GDPR (RGPD) | General Data Protection Regulation; Article 33 requires breach notification to the authority within 72 hours |
+| Cybermalveillance.gouv.fr | National assistance platform for individuals, small organisations and local authorities (run by GIP ACYMA) |
+| CSIRT territorial / sectoriel | Regional or sector-specific incident response centres, complementary to CERT-FR |
+| DSI / RSSI | IT department / information systems security officer |
