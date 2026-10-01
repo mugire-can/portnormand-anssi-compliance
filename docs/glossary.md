@@ -31,3 +31,9 @@
 | T0 | Moment the organisation becomes aware of an incident; all notification clocks are counted from it |
 | LOPMI | Law of 24 January 2023 on the Interior Ministry's programming; created Insurance Code art. L12-10-1 (complaint within 72 h to claim cyber insurance) |
 | Early warning | First NIS2 report, due within 24 h of awareness of a significant incident |
+| PACS | Cyber support and consulting service providers (qualified), framework v2.0 with two levels |
+| PAMS | Secure administration and maintenance service providers (qualification category) |
+| PASSI LPM | PASSI qualification variant for audits of OIV vital systems under the LPM |
+| CSPN | First-level security certification of products (ANSSI) |
+| Common Criteria | International standard for product security evaluation and certification |
+| Qualification vs certification | Qualification: services and products, highest trust, issued by ANSSI. Certification: products evaluated against a standard |
