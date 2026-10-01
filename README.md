@@ -39,7 +39,7 @@ Our team acts as PortNormand's **compliance cell** and must:
 | 3 | Actors table and information-flow diagram | 1 | [`day1/ex3-actors-map.md`](day1/ex3-actors-map.md) | Draft |
 | 4 | Notification timeline and draft message | 2 | [`day2/ex4-incident-notification.md`](day2/ex4-incident-notification.md) | Draft |
 | 5 | Qualification table (PASSI / PDIS / PRIS / SecNumCloud) | 2 | [`day2/ex5-qualifications.md`](day2/ex5-qualifications.md) | Draft |
-| 6 | Inspection readiness action plan (1 page) | 2 | [`day2/ex6-inspection-readiness.md`](day2/ex6-inspection-readiness.md) | Todo |
+| 6 | Inspection readiness action plan (1 page) | 2 | [`day2/ex6-inspection-readiness.md`](day2/ex6-inspection-readiness.md) | Draft |
 
 Supporting material: [`docs/glossary.md`](docs/glossary.md) and [`docs/qcm-study-notes.md`](docs/qcm-study-notes.md).
 

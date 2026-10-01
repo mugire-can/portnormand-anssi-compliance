@@ -37,3 +37,6 @@
 | CSPN | First-level security certification of products (ANSSI) |
 | Common Criteria | International standard for product security evaluation and certification |
 | Qualification vs certification | Qualification: services and products, highest trust, issued by ANSSI. Certification: products evaluated against a standard |
+| Mise en demeure | Formal notice to comply, normally required before an LPM penalty (except for failing to declare incidents) |
+| Mock control | Internal or provider-led rehearsal of an ANSSI control, to find gaps in advance |
+| Control agreement (convention de contrôle) | Contract between the OIV and the controller setting out how an LPM control is carried out |
