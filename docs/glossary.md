@@ -18,3 +18,9 @@
 | CSIRT | Computer security incident response team |
 | ENISA | European Union Agency for Cybersecurity |
 | Défendre / Connaître / Partager / Accompagner / Réguler | ANSSI's five missions: Defend, Know, Share, Support, Regulate |
+| SIIV | Système d'information d'importance vitale (vital information system of an OIV) |
+| SAIV | Sécurité des activités d'importance vitale (French vital-activity security framework) |
+| REC | Directive on the resilience of critical entities |
+| OSE | Opérateur de services essentiels (NIS1 designation) |
+| ReCyF | Référentiel Cyber France (ANSSI working reference framework for NIS2 measures) |
+| MonEspaceNIS2 | ANSSI portal for NIS2 entity eligibility and registration |

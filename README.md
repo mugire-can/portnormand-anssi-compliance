@@ -35,7 +35,7 @@ Our team acts as PortNormand's **compliance cell** and must:
 | # | Deliverable | Day | File | Status |
 |---|---|---|---|---|
 | 1 | Missions / situations table | 1 | [`day1/ex1-missions-situations.md`](day1/ex1-missions-situations.md) | Draft |
-| 2 | Regulatory status note (1 page) | 1 | [`day1/ex2-regulatory-status.md`](day1/ex2-regulatory-status.md) | Todo |
+| 2 | Regulatory status note (1 page) | 1 | [`day1/ex2-regulatory-status.md`](day1/ex2-regulatory-status.md) | Draft |
 | 3 | Actors table and information-flow diagram | 1 | [`day1/ex3-actors-map.md`](day1/ex3-actors-map.md) | Todo |
 | 4 | Notification timeline and draft message | 2 | [`day2/ex4-incident-notification.md`](day2/ex4-incident-notification.md) | Todo |
 | 5 | Qualification table (PASSI / PDIS / PRIS / SecNumCloud) | 2 | [`day2/ex5-qualifications.md`](day2/ex5-qualifications.md) | Todo |
