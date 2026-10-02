@@ -2,7 +2,7 @@
 
 **Status:** Done
 **Format:** One page max: retained status, arguments, identified uncertainties
-**Last verified:** 2026-10-01 (see [Sources](#sources) and the verification caveat in Uncertainty 1)
+**Last verified:** 2026-10-02 (see [Sources](#sources) and the verification caveat in Uncertainty 1)
 
 ## 1. Retained status
 
@@ -16,14 +16,14 @@
 ## 2. Arguments
 
 1. **LPM applies now.** PortNormand has been an OIV since 2015, so its vital information systems (SIIV) are subject to the LPM obligations (security rules, incident declaration to ANSSI, qualified providers, ANSSI controls). Nothing in the NIS2 delay suspends them.
-2. **NIS2 is not yet in force in France.** The "Résilience" bill was adopted by the Senate on 12 March 2025 and voted in the Assembly's special committee on 10 September 2025. As of late September 2026 it has not been debated in the Assembly's public session. ANSSI states NIS2 enters into force once the law, decrees and orders are all published. On 8 July 2026 the European Commission referred France to the CJEU for late transposition.
+2. **NIS2 is not yet in force in France.** The "Résilience" bill was adopted by the Senate on 12 March 2025 and voted in the Assembly's special committee on 10 September 2025. As of 2 October 2026 it has not yet been debated in the Assembly's public session, which is scheduled to start on 7 October 2026. ANSSI states NIS2 enters into force once the law, decrees and orders are all published. On 8 July 2026 the European Commission referred France to the CJEU for late transposition.
 3. **PortNormand will almost certainly be an Essential Entity.** (a) Port managing bodies and vessel traffic services are listed in NIS2 Annex I, sector 2(c) (water transport). (b) 1,200 employees exceeds the 250-employee large-entity ceiling by itself. (c) The bill treats OIV as essential entities for their vital-service activities.
 4. **The two regimes will stack, not replace each other.** The bill revises the vital-activity framework (SAIV) rather than abolishing it. Expected result: LPM rules on SIIV plus NIS2 duties on the wider information system.
 5. **Preparing now is rational.** ANSSI published a working-version reference framework (ReCyF) on 17 March 2026 and urges entities not to wait. This matches the support letter PortNormand received.
 
 ## 3. Uncertainties
 
-1. **Timing and final text.** The bill may still change, and decrees are pending. We relied on ANSSI's FAQ, the Senate report and dated secondary articles (latest 22 Sept 2026). **We did not open assemblee-nationale.fr or Légifrance directly; re-check both before submission.**
+1. **Timing and final text.** The bill may still change, and decrees are pending. We relied on ANSSI's FAQ, the Senate report, the Assembly's legislative file (read through a search result) and dated secondary articles. A first-reading vote would not mean entry into force: if the Senate and Assembly texts differ they must be reconciled, then the law is promulgated and implementing decrees follow. **We did not open Légifrance directly; re-check the bill's status, and the outcome of the 7 October debate, before submission.**
 2. **Brief inconsistency.** The brief says PortNormand acquired a European multimodal logistics operator, yet consolidated headcount is still 1,200. Figures must be confirmed. This does not change the status (thresholds are already exceeded) but matters for scope.
 3. **Acquired entity.** Its sector, legal entity and country are unknown. It may fall under another member state's NIS2 law or a different annex.
 4. **SIIV perimeter.** LPM covers only designated SIIV (the list is not public). NIS2 would cover the whole information system. Which PortNormand systems (SCADA, Port Community System, VHF, video protection) are SIIV is unknown.
@@ -32,6 +32,7 @@
 
 ## Sources
 
+- Assemblée nationale, legislative file of the bill: [assemblee-nationale.fr](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731)
 - Senate report on the bill: [senat.fr/rap/l24-393](https://www.senat.fr/rap/l24-393/l24-393_mono.html)
 - ANSSI, *Avancement de la transposition de la directive NIS 2*: [aide.monespacenis2.cyber.gouv.fr](https://aide.monespacenis2.cyber.gouv.fr/fr/article/avancement-de-la-transposition-de-la-directive-nis-2-1b3j1da/)
 - Commission referral of France to the CJEU, 8 July 2026 (case INFR(2024)0274): [dig.watch coverage](https://dig.watch/updates/eu-commission-eu-court-nis2-delays)
